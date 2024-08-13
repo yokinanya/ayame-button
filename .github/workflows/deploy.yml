@@ -13,7 +13,8 @@ jobs:
         uses: actions/checkout@v2 # If you're using actions/checkout@v2 you must set persist-credentials to false in most cases for the deployment to work correctly.
         with:
           persist-credentials: false
-
+      - name: Install Python 2
+        run: sudo apt-get install python2
       - uses: actions/setup-node@v4.0.3
         with:
           node-version: 16
