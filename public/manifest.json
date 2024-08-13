@@ -1,0 +1,24 @@
+{
+    "name": "あやめボタン AYAME BUTTON",
+    "short_name": "AYAME BUTTON",
+    "description": "あやめボタン AYAME BUTTON PWA",
+    "icons": [
+        {
+            "src": "https://ayame.yokinanya.icu/resources/pwa@192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://ayame.yokinanya.icu/resources/pwa@512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "background_color": "#ffe8e8",
+    "theme_color": "#ffe8e8",
+    "display": "standalone",
+    "orientation": "portrait",
+    "start_url": "/",
+    "scope": "/"
+}
