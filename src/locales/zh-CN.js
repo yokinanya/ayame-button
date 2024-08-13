@@ -2,7 +2,7 @@ const zh_CN = {
     info: {
         title: "余按钮",
         info: "信息",
-        author: "按钮联合工作室 × 幽世鬼神的居酒屋 2020",
+        author: "按钮联合工作室 × 幽世鬼神的居酒屋 2024",
         null: "空",
         subscriber: "当前Youtube订阅数为：",
         audioStaff: "鸣谢名单以及网站相关",
@@ -28,7 +28,8 @@ const zh_CN = {
         adtitle: "● 联动项目",
         weekly: "幽世鬼神的居酒屋周报",
         plan: "计划日期",
-        ing: "正在直播"
+        ing: "正在直播",
+        taffybtn: "塔菲按钮"
     },
     lang: {
         'zh-CN': "简体中文",

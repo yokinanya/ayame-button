@@ -36,7 +36,8 @@
                 </div>
                 <div class="cate-ctrldft">{{$t("action.adtitle")}}
                     <button class="btn btn-ctrldft" onclick="window.open('https://www.bilibili.com/read/readlist/rl218917')">{{$t("action.weekly")}}</button>
-                    <button class="btn btn-ctrldft" onclick="window.open('https://vtbbtn.org')">{{$t("action.vtbbtn")}}</button>
+                    <button class="btn btn-ctrldft" onclick="window.open('https://vbup-osc.github.io/vtuber-voice-button-collection')">{{$t("action.vtbbtn")}}</button>
+                    <button class="btn btn-ctrldft" onclick="window.open('https://acetaffy.club')">{{$t("action.taffybtn")}}</button>
                 </div>
             <div v-for="category in voices" v-bind:key="category.categoryName">
                 <div class="cate-header">{{ $t("voicecategory." + category.categoryName) }} 
@@ -56,7 +57,7 @@
     border-radius: 30px;
     font-weight: 900;
     text-align: left;
-    color: rgb(255, 121, 121);    
+    color: #ff7979;    
     text-shadow:rgba(0, 0, 0, 0.308) 3px 2px 5px;
     font-size: 35px;
     padding-top: 10px;
