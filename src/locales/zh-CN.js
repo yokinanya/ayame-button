@@ -28,8 +28,7 @@ const zh_CN = {
         adtitle: "● 联动项目",
         weekly: "幽世鬼神的居酒屋周报",
         plan: "计划日期",
-        ing: "正在直播",
-        taffybtn: "塔菲按钮"
+        ing: "正在直播"
     },
     lang: {
         'zh-CN': "简体中文",

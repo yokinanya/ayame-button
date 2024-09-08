@@ -12,6 +12,7 @@
     "@sentry/integrations": "^5.25.0",
     "@sentry/tracing": "^5.25.0",
     "axios": "^0.19.2",
+    "ayame-button": "file:",
     "babel": "^6.23.0",
     "bootstrap": "^3.3.7",
     "exiftool": "0.0.3",
