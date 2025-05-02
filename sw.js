@@ -1,19 +1,19 @@
 const CACHE_VERSION = '1.2.1';
 
 const BASE_CACHE_FILES = [
-    'https://ayame.yokinanya.icu/resources/pwa.png',
+    'https://ayame.ruau.top/resources/pwa.png',
 ];
 
 const OFFLINE_CACHE_FILES = [
-    'https://ayame.yokinanya.icu/',
+    'https://ayame.ruau.top/',
 ];
 
 const NOT_FOUND_CACHE_FILES = [
-    'https://ayame.yokinanya.icu/',
+    'https://ayame.ruau.top/',
 ];
 
-const OFFLINE_PAGE = 'https://ayame.yokinanya.icu/';
-const NOT_FOUND_PAGE = 'https://ayame.yokinanya.icu/';
+const OFFLINE_PAGE = 'https://ayame.ruau.top/';
+const NOT_FOUND_PAGE = 'https://ayame.ruau.top/';
 
 const CACHE_VERSIONS = {
     content: 'content-v' + CACHE_VERSION,

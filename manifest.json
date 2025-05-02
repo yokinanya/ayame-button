@@ -4,13 +4,13 @@
     "description": "あやめボタン AYAME BUTTON PWA",
     "icons": [
         {
-            "src": "https://ayame.yokinanya.icu/resources/pwa@192x192.png",
+            "src": "https://ayame.ruau.top/resources/pwa@192x192.png",
             "sizes": "192x192",
             "type": "image/png",
             "purpose": "any maskable"
         },
         {
-            "src": "https://ayame.yokinanya.icu/resources/pwa@512x512.png",
+            "src": "https://ayame.ruau.top/resources/pwa@512x512.png",
             "sizes": "512x512",
             "type": "image/png"
         }
